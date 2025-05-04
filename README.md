@@ -3,7 +3,7 @@
 ---
 
 ## 1. SET UP
-git clone https://github.com/VinzSenzoo/HerafiAutoBot-SOUIY
+git clone https://github.com/Souiy/HerafiAutoBot-SOUIY
 
 cd HerafiAutoBot-SOUIY
 
